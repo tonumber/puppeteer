@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "npm install puppeteer --save && npm start"
+run = "npm install puppeteer --save && npm i input && npm i randomstring && npm i cli-color && npm i puppeteer-extra && npm i puppeteer-extra-plugin-stealth && npm start"
