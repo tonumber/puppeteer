@@ -1,0 +1,22 @@
+{
+  "name": "bruh",
+  "version": "1.0.0",
+  "description": "Something like a test you know?",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"no file specified\" && exit=1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "agent",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
